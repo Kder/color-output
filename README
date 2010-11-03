@@ -1,0 +1,6 @@
+color-output 
+实现windows cmd下的彩色输出（通过pyreadline），并对编码转换进行了包装
+
+注意: Windows下需要pyreadline模块
+作者：Kder [ http://www.kder.info/ ]
+许可：Apache License V2
